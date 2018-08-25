@@ -1,0 +1,23 @@
+{
+  "name": "group-me-node-bot",
+  "version": "1.0.0",
+  "description": "groupme-node-bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/samlazk.git"
+  },
+  "author": "Sam Lazrak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/samlazk/issues"
+  },
+  "homepage": "https://github.com/github.com/samlazrak/groupme-node-bot",
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4",
+    "director": "^1.2.8"
+  }
+}
