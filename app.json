@@ -1,7 +1,7 @@
 {
-  "name": "Jobe bot",
-  "description": "Jobe's come back bitches",
+  "name": "Bot",
+  "description": "Node GroupMe Bot",
   "repository": "https://github.com/samlazrak/groupme-node-bot",
-  "logo": "https://vignette.wikia.nocookie.net/zelda/images/2/25/King_rhoam.png/revision/latest?cb=20170227215356",
+  "logo": "https://pbs.twimg.com/profile_images/885267929419231232/JbxIy3Pn_400x400.jpg",
   "keywords": []
 }
